@@ -1,0 +1,34 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/kcal.png",
+            "title": "kCal",
+            "description": "Python, Flask, HTML, CSS, SQL",
+            "url": "https://kcal-cc.herokuapp.com/"
+        },
+        {
+            "cover": "/portfolio/1/WebsiteLogo.png",
+            "title": "Portfolio Website",
+            "description": "React, JSX, HTML, CSS",
+            "url": "https://andrewwen.ca"
+        },
+        {
+            "cover": "/portfolio/1/SnakeGame.png",
+            "title": "Snake Game",
+            "description": "Python (+ Turtle)",
+            "url": "https://replit.com/@AndrewWen2/snake-game?v=1"
+        },
+        {
+            "cover": "/portfolio/1/ccc.jpeg",
+            "title": "CCC Solutions",
+            "description": "Python",
+            "url": "https://github.com/AndrewTaoWen/CCC"
+        },
+        {
+            "cover": "/portfolio/1/comingSoon.png",
+            "title": "SkinMatch",
+            "description": "React, JSX, Python, Flask, HTML, CSS",
+            "url": "http://google.com"
+        }
+    ]
+}
