@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react'
 import Loader from 'react-loaders'
-// import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
 import { useRef } from 'react'
 import emailjs from '@emailjs/browser'
 import AnimatedLetters from '../AnimatedLetters'
@@ -18,9 +17,10 @@ const Contact = () => {
 
   const sendEmail = (e) => {
     e.preventDefault()
+    // emailjs.send("","template_m6ju66j");
 
     emailjs
-      .sendForm('gmail', 'template_YeJhZkgb', form.current, 'your-token')
+      .sendForm("service_lc605kt", "template_m6ju66j", form.current, "iIoPgIDrrpxp17H0O")
       .then(
         () => {
           alert('Message successfully sent!')
@@ -30,9 +30,9 @@ const Contact = () => {
           alert('Failed to send the message, please try again')
         }
       )
+
   }
 
-  // var map = L.map('map').setView([51.505, -0.09], 13);
 
 
   return (
