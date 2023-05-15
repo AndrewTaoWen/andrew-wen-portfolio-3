@@ -13,6 +13,12 @@
             "url": "https://andrewwen.ca"
         },
         {
+            "cover": "/portfolio/1/dumbell.png",
+            "title": "Fitness Site",
+            "description": "React, JSX, HTML, CSS",
+            "url": "https://andrewwen.ca"
+        },
+        {
             "cover": "/portfolio/1/SnakeGame.png",
             "title": "Snake Game",
             "description": "Python (+ Turtle)",
@@ -25,10 +31,28 @@
             "url": "https://github.com/AndrewTaoWen/CCC"
         },
         {
+            "cover": "/portfolio/1/sudoku.jpeg",
+            "title": "Sudoku Solver",
+            "description": "Python",
+            "url": "https://github.com/AndrewTaoWen/Sudoku-Solver"
+        },
+        {
+            "cover": "/portfolio/1/tic-tac-toe.png",
+            "title": "Tic Tac Toe",
+            "description": "Python",
+            "url": "https://github.com/AndrewTaoWen/Tic-Tac-Toe"
+        },
+        {
             "cover": "/portfolio/1/comingSoon.png",
             "title": "SkinMatch",
             "description": "React, JSX, Python, Flask, HTML, CSS",
             "url": "http://google.com"
+        },
+        {
+            "cover": "/portfolio/1/github-logo.png",
+            "title": "Others",
+            "description": "",
+            "url": "https://github.com/AndrewTaoWen"
         }
     ]
 }
