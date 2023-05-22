@@ -10,13 +10,13 @@
             "cover": "/portfolio/1/WebsiteLogo.png",
             "title": "Portfolio Website",
             "description": "React, JSX, HTML, CSS",
-            "url": "https://andrewwen.ca"
+            "url": "https://andrew-wen-portfolio-3.vercel.app/"
         },
         {
             "cover": "/portfolio/1/dumbell.png",
-            "title": "Fitness Site",
+            "title": "Gym Find",
             "description": "React, JSX, HTML, CSS",
-            "url": "https://andrewwen.ca"
+            "url": "https://gym-index.vercel.app/"
         },
         {
             "cover": "/portfolio/1/SnakeGame.png",
@@ -37,6 +37,12 @@
             "url": "https://github.com/AndrewTaoWen/Sudoku-Solver"
         },
         {
+            "cover": "/portfolio/1/eye.jpeg",
+            "title": "Eye Controlled Mouse",
+            "description": "Python",
+            "url": "https://github.com/AndrewTaoWen/eye-controlled-mouse"
+        },
+        {
             "cover": "/portfolio/1/tic-tac-toe.png",
             "title": "Tic Tac Toe",
             "description": "Python",
@@ -46,7 +52,7 @@
             "cover": "/portfolio/1/comingSoon.png",
             "title": "SkinMatch",
             "description": "React, JSX, Python, Flask, HTML, CSS",
-            "url": "http://google.com"
+            "url": "https://github.com/AndrewTaoWen/SkinMatch"
         },
         {
             "cover": "/portfolio/1/github-logo.png",
