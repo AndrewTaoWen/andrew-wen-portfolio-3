@@ -13,8 +13,14 @@
             "url": "https://andrew-wen-portfolio-3.vercel.app/"
         },
         {
+            "cover": "/portfolio/1/ChatUp.png",
+            "title": "ChatUp (Real time chat web app)",
+            "description": "React, Node, JSX, HTML, CSS",
+            "url": "https://github.com/AndrewTaoWen/ChatUp"
+        },
+        {
             "cover": "/portfolio/1/dumbell.png",
-            "title": "Gym Find",
+            "title": "Gym Find (gym exercise dictionary + guide",
             "description": "React, JSX, HTML, CSS",
             "url": "https://gym-index.vercel.app/"
         },
