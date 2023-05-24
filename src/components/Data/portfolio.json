@@ -13,7 +13,7 @@
             "url": "https://andrew-wen-portfolio-3.vercel.app/"
         },
         {
-            "cover": "/portfolio/1/ChatUp.png",
+            "cover": "/portfolio/1/chatUp.png",
             "title": "ChatUp (Real time chat web app)",
             "description": "React, Node, JSX, HTML, CSS",
             "url": "https://github.com/AndrewTaoWen/ChatUp"
