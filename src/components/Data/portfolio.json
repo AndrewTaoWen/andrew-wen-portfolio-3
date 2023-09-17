@@ -55,6 +55,18 @@
             "url": "https://github.com/AndrewTaoWen/Tic-Tac-Toe"
         },
         {
+            "cover": "/portfolio/1/stocks.jpg",
+            "title": "Stock Price Prediction",
+            "description": "Machine Learning Project",
+            "url": "https://github.com/AndrewTaoWen/stock-price-prediction"
+        },
+        {
+            "cover": "/portfolio/1/loan.jpeg",
+            "title": "Loan Default Prediction",
+            "description": "Machine Learning Project",
+            "url": "https://github.com/AndrewTaoWen"
+        },
+        {
             "cover": "/portfolio/1/comingSoon.png",
             "title": "SkinMatch",
             "description": "React, JSX, Python, Flask, HTML, CSS",
