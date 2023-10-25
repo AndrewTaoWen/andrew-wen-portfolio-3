@@ -10,7 +10,6 @@ const Logo = () => {
 
     useEffect(() => {
         const outlineLogo = outlineLogoRef.current
-        const solidLogo = solidLogoRef.current
 
         gsap.set(outlineLogo, {
             strokeDasharray: outlineLogo.getTotalLength(),
@@ -27,18 +26,6 @@ const Logo = () => {
                 duration: 4,
                 strokeDashoffset: 0,
             })
-
-        // gsap.fromTo(
-        //     solidLogo,
-        //     {
-        //         opacity: 0,
-        //     },
-        //     {
-        //         opacity: 1,
-        //         delay: 5,
-        //         duration: 4,
-        //     }
-        // )
     }, [])
     
 
