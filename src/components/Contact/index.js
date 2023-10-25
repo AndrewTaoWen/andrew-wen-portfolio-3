@@ -37,9 +37,6 @@ const Contact = () => {
 
   return (
     <>
-      {/* <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
-        integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
-        crossorigin="" /> */}
       <div className="container contact-page">
         <div className="text-zone">
           <h1>
@@ -50,7 +47,7 @@ const Contact = () => {
             />
           </h1>
           <p>
-            I am interested in co-op opportunities for the Fall 2023 term (September to December 2023), if you 
+            I am interested in co-op opportunities for the Winter 2024 term (Jan-Apr 2024) or Summer 2024 (Apr-September 2024), if you 
             wish to reach me about any opportunities, questions, anything, don't hesitate to contact me using 
             the form below.
           </p>
@@ -98,21 +95,10 @@ const Contact = () => {
           267 William Graham Dr. L4G 0W4<br />
           Andrew Wen <br />
           <br />
-          <span>andrewtaowen@gmail.com</span>
+          <span>a3wen@uwaterloo.ca</span>
         </div>
-        {/* <div className="map-wrap">
-          <MapContainer center={[44.96366, 19.61045]} zoom={13}>
-            <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
-            <Marker position={[44.96366, 19.61045]}>
-              <Popup>Sloba lives here, come over for a cup of coffee</Popup>
-            </Marker>
-          </MapContainer>
-        </div> */}
          <div id="map"></div>
       </div>
-      {/* <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
-        integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
-        crossorigin=""></script> */}
       <Loader type="pacman" />
     </>
   )
