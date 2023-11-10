@@ -47,8 +47,8 @@ const Contact = () => {
             />
           </h1>
           <p>
-            I am interested in co-op opportunities for the Winter 2024 (Jan-Apr) term or Summer (May-Aug) 2024, if you 
-            wish to reach me about any opportunities, questions, anything, don't hesitate to contact me using 
+            I am interested in co-op opportunities for the Winter 2024 (Jan-Apr) term or Summer (May-Aug) 2024, if you
+            wish to reach me about any opportunities, questions, anything, don't hesitate to contact me using
             the form below.
           </p>
           <div className="contact-form">
@@ -95,9 +95,11 @@ const Contact = () => {
           267 William Graham Dr. L4G 0W4<br />
           Andrew Wen <br />
           <br />
-          <span>a3wen@uwaterloo.ca</span>
+          <a>
+            <span href="mailto:a3wen@uwaterloo.ca">a3wen@uwaterloo.ca</span>
+          </a>
         </div>
-         <div id="map"></div>
+        <div id="map"></div>
       </div>
       <Loader type="pacman" />
     </>
