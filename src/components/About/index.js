@@ -15,12 +15,17 @@ import portrait from '../../assets/images/portrait.jpg'
 
 const About = () => {
   const [letterClass, setLetterClass] = useState('text-animate')
+  const [mobileView, setMobileView] = useState(false);
 
   useEffect(() => {
     setTimeout(() => {
       setLetterClass('text-animate-hover')
     }, 3000);
   }, [])
+
+  useEffect(() => {
+
+  }, [mobileView])
 
   return (
     <>
@@ -35,8 +40,8 @@ const About = () => {
           </h1>
           <p>
             I'm a very ambitious developer looking for an internship role from
-            during the Fall 2023 term (September - December 2023). I look forward to
-            to learning about the latest technologies, new skills, gaining experience 
+            during the Winter (Jan - Apr) 2024 or Summer (May - Aug) 2024 term. I look forward to
+            to learning about the latest technologies, new skills, gaining experience
             and facing challenges.
           </p>
           <p>
@@ -46,31 +51,28 @@ const About = () => {
             I like to code, gym and play basketball!
           </p>
         </div>
-
-        <div className="stage-cube-cont">
-          <div className="cubespinner">
-            <div className="face1">
-              <FontAwesomeIcon icon={faPython} color="#3d85c6" />
-            </div>
-            <div className="face2">
-              <FontAwesomeIcon icon={faHtml5} color="#F06529" />
-            </div>
-            <div className="face3">
-              <FontAwesomeIcon icon={faCss3} color="#28A4D9" />
-            </div>
-            <div className="face4">
-              <FontAwesomeIcon icon={faReact} color="#5ED4F4" />
-            </div>
-            <div className="face5">
-              <FontAwesomeIcon icon={faJsSquare} color="#EFD81D" />
-            </div>
-            <div className="face6">
-              <FontAwesomeIcon icon={faGitAlt} color="#ffa500" />
-            </div>
+      </div>
+      <div className="stage-cube-cont">
+        <div className="cubespinner">
+          <div className="face1">
+            <FontAwesomeIcon icon={faPython} color="#3d85c6" />
+          </div>
+          <div className="face2">
+            <FontAwesomeIcon icon={faHtml5} color="#F06529" />
+          </div>
+          <div className="face3">
+            <FontAwesomeIcon icon={faCss3} color="#28A4D9" />
+          </div>
+          <div className="face4">
+            <FontAwesomeIcon icon={faReact} color="#5ED4F4" />
+          </div>
+          <div className="face5">
+            <FontAwesomeIcon icon={faJsSquare} color="#EFD81D" />
+          </div>
+          <div className="face6">
+            <FontAwesomeIcon icon={faGitAlt} color="#ffa500" />
           </div>
         </div>
-        
-        <img src={portrait} alt="portrait" class="portrait-image"/>
       </div>
       <Loader type="pacman" />
     </>
