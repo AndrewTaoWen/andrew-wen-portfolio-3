@@ -3,74 +3,56 @@
         {
             "cover": "/portfolio/1/kcal.png",
             "title": "kCal",
-            "description": "Python, Flask, HTML, CSS, SQL",
+            "description": "",
             "url": "https://kcal-cc.herokuapp.com/"
         },
         {
-            "cover": "/portfolio/1/WebsiteLogo.png",
-            "title": "Portfolio Website",
-            "description": "React, JSX, HTML, CSS",
-            "url": "https://andrew-wen-portfolio-3.vercel.app/"
-        },
-        {
             "cover": "/portfolio/1/chatUp.png",
-            "title": "ChatUp (Real time chat web app)",
-            "description": "React, Node, JSX, HTML, CSS",
+            "title": "Real time Chatting App",
+            "description": "",
             "url": "https://github.com/AndrewTaoWen/ChatUp"
         },
         {
             "cover": "/portfolio/1/dumbell.png",
-            "title": "Gym Find (gym exercise dictionary + guide",
-            "description": "React, JSX, HTML, CSS",
+            "title": "Gym Dictionary",
+            "description": "",
             "url": "https://gym-index.vercel.app/"
         },
         {
             "cover": "/portfolio/1/SnakeGame.png",
             "title": "Snake Game",
-            "description": "Python (+ Turtle)",
+            "description": "",
             "url": "https://replit.com/@AndrewWen2/snake-game?v=1"
         },
         {
             "cover": "/portfolio/1/ccc.jpeg",
             "title": "CCC Solutions",
-            "description": "Python",
+            "description": "",
             "url": "https://github.com/AndrewTaoWen/CCC"
         },
         {
             "cover": "/portfolio/1/sudoku.jpeg",
             "title": "Sudoku Solver",
-            "description": "Python",
+            "description": "",
             "url": "https://github.com/AndrewTaoWen/Sudoku-Solver"
-        },
-        {
-            "cover": "/portfolio/1/eye.jpeg",
-            "title": "Eye Controlled Mouse",
-            "description": "Python",
-            "url": "https://github.com/AndrewTaoWen/eye-controlled-mouse"
         },
         {
             "cover": "/portfolio/1/tic-tac-toe.png",
             "title": "Tic Tac Toe",
-            "description": "Python",
+            "description": "",
             "url": "https://github.com/AndrewTaoWen/Tic-Tac-Toe"
         },
         {
             "cover": "/portfolio/1/stocks.jpg",
             "title": "Stock Price Prediction",
-            "description": "Python, Matplotlib, Sckikit-learn, Pandas, Excel, Jupyter",
+            "description": "",
             "url": "https://github.com/AndrewTaoWen/stock-price-prediction"
         },
         {
             "cover": "/portfolio/1/loan.jpeg",
             "title": "Loan Default Prediction",
-            "description": "Python, Matplotlib, Sckikit-learn, Pandas, Excel, Jupyter",
+            "description": "",
             "url": "https://github.com/AndrewTaoWen"
-        },
-        {
-            "cover": "/portfolio/1/comingSoon.png",
-            "title": "SkinMatch",
-            "description": "React, JSX, Python, Flask, HTML, CSS",
-            "url": "https://github.com/AndrewTaoWen/SkinMatch"
         },
         {
             "cover": "/portfolio/1/github-logo.png",
