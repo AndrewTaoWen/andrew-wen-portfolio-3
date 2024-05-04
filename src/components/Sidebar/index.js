@@ -62,14 +62,14 @@ const Sidebar = () => {
         >
           <FontAwesomeIcon icon={faSuitcase} color="#4d4d4e" />
         </NavLink>
-        <NavLink
+        {/* <NavLink
           activeclassname="active"
           className="contact-link"
           to="/contact"
           onClick={() => setShowNav(false)}
         >
           <FontAwesomeIcon icon={faEnvelope} color="#4d4d4e" />
-        </NavLink>
+        </NavLink> */}
         <FontAwesomeIcon 
           onClick={() => setShowNav(false)}
           icon={faClose}

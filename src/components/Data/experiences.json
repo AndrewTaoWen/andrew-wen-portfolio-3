@@ -2,14 +2,20 @@
     "experience": [
         {
             "cover": "/portfolio/1/enquire.jpg",
-            "title": "Software Developer @ Enquire AI",
-            "description": "Python, Flask, PostgreSQL",
+            "title": "Software Engineering Intern",
+            "description": "Python, Flask, REST API...",
             "url": "https://www.enquire.ai/"
         },
         {
             "cover": "/portfolio/1/gt.webp",
-            "title": "Software Developer @ Grant Thornton LLP (Canada)",
-            "description": "React (Remix), HTML, CSS",
+            "title": "Software Enginerring Intern",
+            "description": "React (Remix), Tainwind...",
+            "url": "https://www.grantthornton.ca/"
+        },
+        {
+            "cover": "/portfolio/1/MB_ogImage.png",
+            "title": "Software Engineering Intern",
+            "description": "Java, SQL, Spring and Spring boot MVC...",
             "url": "https://www.grantthornton.ca/"
         }
     ]

@@ -39,16 +39,13 @@ const About = () => {
             />
           </h1>
           <p>
-            I'm a very ambitious developer looking for an internship role from
-            during the Winter (Jan - Apr) 2024 or Summer (May - Aug) 2024 term. I look forward to
-            to learning about the latest technologies, new skills, gaining experience
-            and facing challenges.
-          </p>
-          <p>
-            I'm confident, curious, and eager to improving my skills one at a time.
+            Hi! My name is Andrew. I am a student looking for internships just like everyone else...
           </p>
           <p>
             I like to code, gym and play basketball!
+          </p>
+          <p>
+            Please feel free to email me at a3wen@uwaterloo.ca!
           </p>
         </div>
       </div>
