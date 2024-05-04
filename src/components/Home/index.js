@@ -56,9 +56,9 @@ const Home = () => {
             /> */}
           </h1>
           <h2>Student / Developer</h2>
-          <Link to="/contact" className="flat-button">
+          {/* <Link to="/contact" className="flat-button">
             CONTACT ME
-          </Link>
+          </Link> */}
         </div>
         <Logo />
       </div>
