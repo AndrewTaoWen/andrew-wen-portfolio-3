@@ -9,7 +9,7 @@ import portfolioData from '../Data/portfolio.json'
 
 const Portfolio = () => { 
     const [letterClass, setLetterClass] = useState('text-animate');
-    const [portfolio, setPortfolio] = useState([]);
+    const [, setPortfolio] = useState([]);
 
     useEffect(() => {
         const timer = setTimeout(() => {

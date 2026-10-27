@@ -9,7 +9,7 @@ import experienceData from '../Data/experiences.json'
 
 const Experience = () => {
     const [letterClass, setLetterClass] = useState('text-animate');
-    const [experience, setExperience] = useState([]);
+    const [, setExperience] = useState([]);
 
     useEffect(() => {
         const timer = setTimeout(() => {

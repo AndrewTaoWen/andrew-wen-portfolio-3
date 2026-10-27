@@ -95,9 +95,7 @@ const Contact = () => {
           267 William Graham Dr. L4G 0W4<br />
           Andrew Wen <br />
           <br />
-          <a>
-            <span href="mailto:a3wen@uwaterloo.ca">a3wen@uwaterloo.ca</span>
-          </a>
+          <a href="mailto:a3wen@uwaterloo.ca">a3wen@uwaterloo.ca</a>
         </div>
         <div id="map"></div>
       </div>
