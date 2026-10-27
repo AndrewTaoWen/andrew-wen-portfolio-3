@@ -11,7 +11,6 @@ import {
 import {
   faHome,
   faUser,
-  faEnvelope,
   faSuitcase,
   faBars,
   faClose,

@@ -11,11 +11,10 @@ import Loader from 'react-loaders'
 import AnimatedLetters from '../AnimatedLetters'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import './index.scss'
-import portrait from '../../assets/images/portrait.jpg'
 
 const About = () => {
   const [letterClass, setLetterClass] = useState('text-animate')
-  const [mobileView, setMobileView] = useState(false);
+  const [mobileView] = useState(false);
 
   useEffect(() => {
     setTimeout(() => {
